@@ -3,3 +3,5 @@ node_modules/
 amplify_outputs.json
 .env
 .DS_Store
+package-lock.json
+amplify/package-lock.json
